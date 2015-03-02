@@ -1,0 +1,6 @@
+total 12
+drwxrwxr-x  3 dang dang 4096 Mar  2 12:12 .
+drwxr-xr-x 26 dang dang 4096 Mar  2 12:01 ..
+drwxrwxr-x  8 dang dang 4096 Mar  2 12:09 .git
+-rw-rw-r--  1 dang dang    0 Mar  2 12:01 README
+-rw-rw-r--  1 dang dang    0 Mar  2 12:13 text.txt
